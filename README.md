@@ -1,7 +1,6 @@
 ##Cwiczenie 1
 ### 1. Wybrany plik graficzny
-![Szczupak](https://www.google.com/url?sa=i&url=https%3A%2F%2Fatlasryb.online%2Fopis_ryby.php%3Fid%3D358%26ryba%3DSzczupak_Esox_lucius&psig=AOvVaw3eAtgze3pEDpEhL64b3kxX&ust=1761917907771000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCIC2t7CJzJADFQAAAAAdAAAAABAE)
-
+![Szczupak](Szczupak.jpg)
 
 
 ---
