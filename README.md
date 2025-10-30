@@ -1,6 +1,6 @@
 ##Cwiczenie 1
 ### 1. Wybrany plik graficzny
-![Szczupak](Szczupak.jpg)
+![Szczupak](szczupak.jpg)
 
 
 ---
